@@ -1,0 +1,17 @@
+{
+    "name": "adxl345",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "registerhelper.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
